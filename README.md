@@ -12,3 +12,7 @@
 - **Davyson dos Santos Ribeiro** - 564309
 - **Rafael Sousa Lemos** - 564308
 - **Robson de Sousa dos Santos** - 564261
+
+Referências para o desenvolvimento da questão:  
+Ref1: https://www.youtube.com/watch?v=lRUoCm0u6-8  
+Ref2: https://www.linkedin.com/pulse/python-sockets-criando-aplica%C3%A7%C3%B5es-cliente-e-servidor-diego/?originalSubdomain=pt
